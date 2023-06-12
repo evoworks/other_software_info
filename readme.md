@@ -1,5 +1,6 @@
 # Info about group software available from other repositories
 
+
 ## codeml_SBA
 
 We developed an alternative to BEB called **smoothed bootstrap aggregation (SBA)**, for the inference of positively selected sites. SBA bootstraps site patterns from an alignment of protein coding DNA sequences to accommodate the uncertainty in the parameter estimates. Deriving the correction for parameter uncertainty from the data in hand, in combination with kernel smoothing techniques, improves site specific inference of positive selection. SBA is applicable to a wide variety of other inference problems in molecular evolution.
@@ -13,7 +14,7 @@ The paper describing the method is:
 The repository for the code is: https://github.com/Jehops/codeml_sba
 
 Please cite this paper if you use this repository.
-
+<br/><br/>
 
 ## codeml_ModL
 
@@ -30,8 +31,22 @@ The code for the **penalized likelihood method** is derived from a forked versio
 The repository for the code is: https://github.com/Jehops/codeml_modl
 
 Please cite this paper if you use this repository.
+<br/><br/>
 
+## Protein Stabilty simulation and analysis software 
+Most proteins must fold into a native structure in which they are moderately stable before they are able to perform their biological function. Protein stability depends on the sequence of amino acids and their interactions in the folded three-dimensional structures. Because of these interactions, evolutionary selective constraints to maintain adequate stability result in epistatic dependencies between residues.  We developed and implemented mechanistic mutation-selection models in conjunction with a fitness framework derived from protein stability. We refer to these as the stability-informed site-dependent (S-SD) model and the stability-informed site-independent (S-SI) model that captures the average effect of stability constraints on individual sites of a protein.  We also used the stability-constrained mechanistic mutation-selection models to show that nonadaptive evolution can lead to both positive (Stokes) and negative (anti-Stokes) shifts in propensities following the fixation of an amino acid, emphasizing that the detection of negative shifts is not conclusive evidence of adaptation.
 
+Distribution:
+https://github.com/nooryoussef/antiStokes_shifts
+
+https://github.com/nooryoussef/Consequences-of-stability-induced-epistasis
+
+Citations:
+>Youssef N, Susko E, Roger AJ, Bielawski JP. Evolution of Amino Acid Propensities under Stability-Mediated Epistasis. Mol Biol Evol. 2022 Mar 2;39(3):msac030. doi: 10.1093/molbev/msac030. PMID: 35134997; PMCID: PMC8896634.
+
+>Youssef N, Susko E, Bielawski JP. Consequences of Stability-Induced Epistasis for Substitution Rates. Mol Biol Evol. 2020 Nov 1;37(11):3131-3148. doi: 10.1093/molbev/msaa151. PMID: 32897316.
+
+Please cite these papers if you use these repositories.
 
 
 
