@@ -1,3 +1,5 @@
+# Info about group software available from other repositories
+
 ## codeml_SBA
 
 We developed an alternative to BEB called **smoothed bootstrap aggregation (SBA)**, for the inference of positively selected sites. SBA bootstraps site patterns from an alignment of protein coding DNA sequences to accommodate the uncertainty in the parameter estimates. Deriving the correction for parameter uncertainty from the data in hand, in combination with kernel smoothing techniques, improves site specific inference of positive selection. SBA is applicable to a wide variety of other inference problems in molecular evolution.
