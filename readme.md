@@ -2,13 +2,13 @@
 <br/>
 
 # Table of Contents
-1. [Program: codeml_SBA](#codeml_SBA)
-2. [Program: codeml_ModL](#codeml_ModL)
+1. [Program: codeml_SBA](#codeml_sba)
+2. [Program: codeml_ModL](#codeml_modl)
 3. [Tools: Protein stability simulation and analysis](#stabilty_tools)
 4. [Theory: Ecological Scaffold](#ecological_scaffold)
 <br/>
 
-<a id="#codeml_SBA"></a>
+<a id="#codeml_sba"></a>
 ## codeml_SBA
 
 We developed an alternative to BEB called **smoothed bootstrap aggregation (SBA)**, for the inference of positively selected sites. SBA bootstraps site patterns from an alignment of protein coding DNA sequences to accommodate the uncertainty in the parameter estimates. Deriving the correction for parameter uncertainty from the data in hand, in combination with kernel smoothing techniques, improves site specific inference of positive selection. SBA is applicable to a wide variety of other inference problems in molecular evolution.
@@ -24,7 +24,7 @@ The repository for the code is: https://github.com/Jehops/codeml_sba
 Please cite this paper if you use this repository.
 <br/><br/>
 
-<a id="#codeml_ModL"></a>
+<a id="#codeml_modl"></a>
 ## codeml_ModL
 
 Likelihood ratio tests are commonly used to test for positive selection acting on proteins. They are usually applied with thresholds for declaring a protein under positive selection determined from a chi-square or mixture of chi-square distributions. Although it is known that such distributions are not strictly justified due to the statistical irregularity of the problem, the hope has been that the resulting tests are conservative and do not lose much power in comparison with the same test using the unknown, correct threshold. We have shown that commonly used thresholds need not yield conservative tests, but instead give larger than expected Type I error rates. Statistical regularity can be restored by using a modified likelihood ratio test.
