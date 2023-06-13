@@ -4,7 +4,7 @@
 1. [Program: codeml_SBA](#codeml_SBA)
 2. [Program: codeml_ModL](#codeml_ModL)
 3. [Tools: Protein stabilty simulation and analysis](#stabilty_tools)
-4. [<font size ="6">Theory: Ecological Scaffold</font>](#ecological_scaffold)
+4. [Theory: Ecological Scaffold](#ecological_scaffold)
 <br/>
 
 <a id="#codeml_SBA"></a>
