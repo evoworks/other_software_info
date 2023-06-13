@@ -4,7 +4,7 @@
 # Table of Contents
 1. [Program: codeml_SBA](#codeml_SBA)
 2. [Program: codeml_ModL](#codeml_ModL)
-3. [Tools: Protein stabilty simulation and analysis](#stabilty_tools)
+3. [Tools: Protein stability simulation and analysis](#stabilty_tools)
 4. [Theory: Ecological Scaffold](#ecological_scaffold)
 <br/>
 
