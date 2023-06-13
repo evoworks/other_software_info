@@ -20,7 +20,7 @@ The code for SBA is derived from a forked version of codeml (by Ziheng Yang).  c
 
 The paper describing the method is:
 
->Mingrone, J., Susko, E., & Bielawski, J. (2016). Smoothed bootstrap aggregation for assessing selection pressure at amino acid sites. Molecular Biology and Evolution, 33(11), 2976-2989.
+>*Mingrone, J., Susko, E., & Bielawski, J. (2016). Smoothed bootstrap aggregation for assessing selection pressure at amino acid sites. Molecular Biology and Evolution, 33(11), 2976-2989.*
 
 The repository for the code is: https://github.com/Jehops/codeml_sba
 
@@ -38,7 +38,7 @@ We introduce a modified LR test, which borrows from similar methods in mixture m
 
 The paper describing the method is:
 
->Mingrone, J., Susko, E., & Bielawski, J. P. (2019). ModL: exploring and restoring regularity when testing for positive selection. Bioinformatics, 35(15), 2545-2554.
+>*Mingrone, J., Susko, E., & Bielawski, J. P. (2019). ModL: exploring and restoring regularity when testing for positive selection. Bioinformatics, 35(15), 2545-2554.*
 
 The code for the **penalized likelihood method** is derived from a forked version of codeml (by Ziheng Yang).  codeml_ModL was written by Joseph Mingrone while he was in the Bielawski Group.
 
@@ -60,9 +60,9 @@ Distribution:
 https://github.com/nooryoussef/Consequences-of-stability-induced-epistasis
 
 Citations:
->Youssef N, Susko E, Roger AJ, Bielawski JP. Evolution of Amino Acid Propensities under Stability-Mediated Epistasis. Mol Biol Evol. 2022 Mar 2;39(3):msac030. doi: 10.1093/molbev/msac030. PMID: 35134997; PMCID: PMC8896634.
+>*Youssef N, Susko E, Roger AJ, Bielawski JP. Evolution of Amino Acid Propensities under Stability-Mediated Epistasis. Mol Biol Evol. 2022 Mar 2;39(3):msac030. doi: 10.1093/molbev/msac030. PMID: 35134997; PMCID: PMC8896634.*
 
->Youssef N, Susko E, Bielawski JP. Consequences of Stability-Induced Epistasis for Substitution Rates. Mol Biol Evol. 2020 Nov 1;37(11):3131-3148. doi: 10.1093/molbev/msaa151. PMID: 32897316.
+>*Youssef N, Susko E, Bielawski JP. Consequences of Stability-Induced Epistasis for Substitution Rates. Mol Biol Evol. 2020 Nov 1;37(11):3131-3148. doi: 10.1093/molbev/msaa151. PMID: 32897316.*
 
 Please cite these papers if you use these repositories.
 <br/><br/>
@@ -78,7 +78,7 @@ All simulations and calculations were implemented in MATLAB code version R2021a 
 
 The paper describing the method is:
 
->Jones, C. T., Meynell, L., Neto, C., Susko, E., & Bielawski, J. P. (2023). The role of the ecological scaffold in the origin and maintenance of whole-group trait altruism in microbial populations. BMC Ecology and Evolution, 23(1), 11.
+>*Jones, C. T., Meynell, L., Neto, C., Susko, E., & Bielawski, J. P. (2023). The role of the ecological scaffold in the origin and maintenance of whole-group trait altruism in microbial populations. BMC Ecology and Evolution, 23(1), 11.*
 
 
 The repository for the code is: https://github.com/cjones2DAL/WGT-Altruism-Model-Code/tree/v1.0
@@ -99,7 +99,7 @@ Contains MATLAB scripts for a horizontal gene transfer model.
 
 The paper describing the method is:
 
->Jones, C. T., Susko, E., & Bielawski, J. P. (2022). Evolution of the connectivity and indispensability of a transferable gene: the simplicity hypothesis. BMC Ecology and Evolution, 22(1), 1-13.
+>*Jones, C. T., Susko, E., & Bielawski, J. P. (2022). Evolution of the connectivity and indispensability of a transferable gene: the simplicity hypothesis. BMC Ecology and Evolution, 22(1), 1-13.*
 
 The repository for the code is: https://github.com/cjones2DAL/HGT-Model-Code
 
