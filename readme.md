@@ -1,10 +1,10 @@
 # Info about group software available from other repositories
 
 # Table of Contents
-1. [<font size ="4">Program: codeml_SBA</font>](#codeml_SBA)
-2. [<font size ="4">Program: codeml_ModL</font>](#codeml_ModL)
-3. [<font size ="4">Tools: Protein stabilty simulation and analysis</font>](#stabilty_tools)
-4. [<font size ="4">Theory: Ecological Scaffold</font>](#ecological_scaffold)
+1. [Program: codeml_SBA](#codeml_SBA)
+2. [Program: codeml_ModL](#codeml_ModL)
+3. [Tools: Protein stabilty simulation and analysis](#stabilty_tools)
+4. [<font size ="6">Theory: Ecological Scaffold</font>](#ecological_scaffold)
 <br/>
 
 <a id="#codeml_SBA"></a>
