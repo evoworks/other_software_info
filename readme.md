@@ -4,7 +4,7 @@
 # Table of Contents
 1. [Program: codeml_SBA](#codeml_sba)
 2. [Program: codeml_ModL](#codeml_modl)
-3. [Tools: Protein stability simulation and analysis](#stabilty_tools)
+3. [Tools: Protein stability simulation and analysis](#stability_tools)
 4. [Theory: Ecological Scaffold](#ecological_scaffold)
 <br/>
 
@@ -43,7 +43,7 @@ Please cite this paper if you use this repository.
 <br/><br/>
 
 
-<a id="#stabilty_tools"></a>
+<a id="#stability_tools"></a>
 ## Protein stability simulation and analysis tools 
 Most proteins must fold into a native structure in which they are moderately stable before they are able to perform their biological function. Protein stability depends on the sequence of amino acids and their interactions in the folded three-dimensional structures. Because of these interactions, evolutionary selective constraints to maintain adequate stability result in epistatic dependencies between residues.  We developed and implemented mechanistic mutation-selection models in conjunction with a fitness framework derived from protein stability. We refer to these as the stability-informed site-dependent (S-SD) model and the stability-informed site-independent (S-SI) model that captures the average effect of stability constraints on individual sites of a protein.  We also used the stability-constrained mechanistic mutation-selection models to show that nonadaptive evolution can lead to both positive (Stokes) and negative (anti-Stokes) shifts in propensities following the fixation of an amino acid, emphasizing that the detection of negative shifts is not conclusive evidence of adaptation.
 
@@ -61,7 +61,7 @@ Citations:
 Please cite these papers if you use these repositories.
 <br/><br/>
 
-<a id="#ecolgcial_scaffold"></a>
+<a id="#ecological_scaffold"></a>
 ## Ecological scaffold theory
 
 We designed **computer simulation of evolution in single populations and metapopulations motivated by a theoretical model**. These simulations show that although an altruistic mutant can be fixed within a single population of non-altruists by drift when nutrients are severely limited, the resulting altruistic population remains vulnerable to non-altruistic mutants. We then show how the imposition of the **ecological scaffold** onto a population of non-altruists alters the balance between selection and drift in a way that supports the fixation and subsequent persistence of altruism despite the possibility of invasion by non-altruists.
