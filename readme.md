@@ -47,6 +47,23 @@ Citations:
 >Youssef N, Susko E, Bielawski JP. Consequences of Stability-Induced Epistasis for Substitution Rates. Mol Biol Evol. 2020 Nov 1;37(11):3131-3148. doi: 10.1093/molbev/msaa151. PMID: 32897316.
 
 Please cite these papers if you use these repositories.
+<br/><br/>
+
+## Ecological scaffold theory
+
+We designed **computer simulation of evolution in single populations and metapopulations motivated by a theoretical model**. These simulations show that although an altruistic mutant can be fixed within a single population of non-altruists by drift when nutrients are severely limited, the resulting altruistic population remains vulnerable to non-altruistic mutants. We then show how the imposition of the **ecological scaffold** onto a population of non-altruists alters the balance between selection and drift in a way that supports the fixation and subsequent persistence of altruism despite the possibility of invasion by non-altruists.
+
+All simulations and calculations were implemented in MATLAB code version R2021a (by Christopher Jones as a postdoc in the Bielawski Group) under license number 861043 for academic use using custom scripts. 
+
+The paper describing the method is:
+
+>Jones, C. T., Meynell, L., Neto, C., Susko, E., & Bielawski, J. P. (2023). The role of the ecological scaffold in the origin and maintenance of whole-group trait altruism in microbial populations. BMC Ecology and Evolution, 23(1), 11.
+
+
+The repository for the code is: https://github.com/cjones2DAL/WGT-Altruism-Model-Code/tree/v1.0
+
+Please cite this paper if you use this repository.
+<br/><br/>
 
 
 
