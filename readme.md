@@ -6,6 +6,7 @@
 2. [Program: codeml_ModL](#codeml_modl)
 3. [Tools: Protein stability simulation and analysis](#stability_tools)
 4. [Theory: Ecological Scaffold](#ecological_scaffold)
+5. [Theory: The simplicity hypothesis & gene transfer](#gene_transfer)
 <br/>
 
 <a id="#codeml_sba"></a>
@@ -74,6 +75,25 @@ The paper describing the method is:
 
 
 The repository for the code is: https://github.com/cjones2DAL/WGT-Altruism-Model-Code/tree/v1.0
+
+Please cite this paper if you use this repository.
+<br/><br/>
+
+
+<a id="#gene_transfer"></a>
+## The “simplicity hypothesis” and theoretical expectations for the connectivity of a transferrable gene.
+
+We present a theoretical model that can be used to predict the conditions under which gene-host coevolution might increase or decrease the connectivity of a transferable gene over time. We show that the opportunity to enter new microbial populations by HGT can cause the connectivity of a transferable gene to evolve toward lower values, particularly in an environment that is unstable with respect to the function of the gene’s protein product. We also show that a lack of such opportunity in a stable environment can cause the connectivity of a transferable gene to evolve toward higher values.
+
+All simulations and calculations were implemented in MATLAB code version R2021a (by Christopher Jones as a postdoc in the Bielawski Group) under license number 861043 for academic use using custom scripts. 
+
+Contains MATLAB scripts for a horizontal gene transfer model.
+
+The paper describing the method is:
+
+>Jones, C. T., Susko, E., & Bielawski, J. P. (2022). Evolution of the connectivity and indispensability of a transferable gene: the simplicity hypothesis. BMC Ecology and Evolution, 22(1), 1-13.
+
+The repository for the code is: https://github.com/cjones2DAL/HGT-Model-Code
 
 Please cite this paper if you use this repository.
 <br/><br/>
