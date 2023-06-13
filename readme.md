@@ -1,4 +1,5 @@
-# Info about group software available from other repositories
+# Information about some of our group's software that is available from other repositories
+<br/>
 
 # Table of Contents
 1. [Program: codeml_SBA](#codeml_SBA)
