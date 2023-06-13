@@ -38,7 +38,7 @@ We introduce a modified LR test, which borrows from similar methods in mixture m
 
 The paper describing the method is:
 
->Mingrone, J., Susko, E., & Bielawski, J. P. (2019). ModL: exploring and restoring regularity when testing for positive selection. Bioinformatics, 35(15), 2545-2554.
+>**Mingrone, J., Susko, E., & Bielawski, J. P. (2019). ModL: exploring and restoring regularity when testing for positive selection. Bioinformatics, 35(15), 2545-2554.**
 
 The code for the **penalized likelihood method** is derived from a forked version of codeml (by Ziheng Yang).  codeml_ModL was written by Joseph Mingrone while he was in the Bielawski Group.
 
