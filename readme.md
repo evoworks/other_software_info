@@ -5,7 +5,7 @@
 1. [Program: codeml_SBA](#codeml_sba)
 2. [Program: codeml_ModL](#codeml_modl)
 3. [Tools: Protein stability simulation and analysis](#stability_tools)
-4. [Theory: Ecological Scaffold](#ecological_scaffold)
+4. [Theory: Ecological scaffold](#ecological_scaffold)
 5. [Theory: The simplicity hypothesis & gene transfer](#gene_transfer)
 <br/>
 
