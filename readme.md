@@ -9,6 +9,8 @@
 5. [Theory: The simplicity hypothesis & gene transfer](#gene_transfer)
 <br/>
 
+---
+
 <a id="#codeml_sba"></a>
 ## codeml_SBA
 
@@ -24,6 +26,8 @@ The repository for the code is: https://github.com/Jehops/codeml_sba
 
 Please cite this paper if you use this repository.
 <br/><br/>
+
+---
 
 <a id="#codeml_modl"></a>
 ## codeml_ModL
@@ -43,6 +47,7 @@ The repository for the code is: https://github.com/Jehops/codeml_modl
 Please cite this paper if you use this repository.
 <br/><br/>
 
+---
 
 <a id="#stability_tools"></a>
 ## Protein stability simulation and analysis tools 
@@ -62,6 +67,8 @@ Citations:
 Please cite these papers if you use these repositories.
 <br/><br/>
 
+---
+
 <a id="#ecological_scaffold"></a>
 ## Ecological scaffold theory
 
@@ -79,6 +86,7 @@ The repository for the code is: https://github.com/cjones2DAL/WGT-Altruism-Model
 Please cite this paper if you use this repository.
 <br/><br/>
 
+---
 
 <a id="#gene_transfer"></a>
 ## The “simplicity hypothesis” and theoretical expectations for the connectivity of a transferrable gene.
