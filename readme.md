@@ -44,7 +44,7 @@ Please cite this paper if you use this repository.
 
 
 <a id="#stabilty_tools"></a>
-## Protein Stabilty simulation and analysis tools 
+## Protein stability simulation and analysis tools 
 Most proteins must fold into a native structure in which they are moderately stable before they are able to perform their biological function. Protein stability depends on the sequence of amino acids and their interactions in the folded three-dimensional structures. Because of these interactions, evolutionary selective constraints to maintain adequate stability result in epistatic dependencies between residues.  We developed and implemented mechanistic mutation-selection models in conjunction with a fitness framework derived from protein stability. We refer to these as the stability-informed site-dependent (S-SD) model and the stability-informed site-independent (S-SI) model that captures the average effect of stability constraints on individual sites of a protein.  We also used the stability-constrained mechanistic mutation-selection models to show that nonadaptive evolution can lead to both positive (Stokes) and negative (anti-Stokes) shifts in propensities following the fixation of an amino acid, emphasizing that the detection of negative shifts is not conclusive evidence of adaptation.
 
 Distribution:
